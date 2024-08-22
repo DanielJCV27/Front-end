@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    text-align: center;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+h1{
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+canvas{
+    max-width: 600px;
+    margin: 20px auto;
+    display: block;
+}
+#countryList{
+    max-width: 600px;
+    margin: auto;
+    text-align: left;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+#countryList h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+
+}
+#countryList ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#countryList li {
+    font-size: 16px;
+    padding: 5px 0;
+    
+}
